@@ -46,8 +46,4 @@ export interface HouseInfo2 {
   월임대료: string;
   임대보증금_1: string;
   월임대료_1: string;
-  임대보증금_2: string;
-  월임대료_2: string;
-  임대보증금_3: string;
-  월임대료_3: string;
 }
