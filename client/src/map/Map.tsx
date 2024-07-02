@@ -1,6 +1,5 @@
 import { useEffect, useRef } from "react";
 import { HouseInfo, HouseInfo2 } from "../interFace";
-import fstfive from "../../public/fastfive.png";
 
 declare global {
   interface Window {
