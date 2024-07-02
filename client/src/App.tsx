@@ -5,7 +5,7 @@ import houseData from "./data/houseData.json";
 import houseData2 from "./data/houseData2.json";
 
 function App() {
-  const [selectedAddress, setSelectedAddress] = useState<string>("");
+  const [selectedAddress] = useState<string>("");
   const places = houseData;
   const places2 = houseData2;
 
