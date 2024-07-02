@@ -31,7 +31,7 @@ function HouseMap({ places, places2, selectedAddress }: MapProps) {
       const mapOptions = {
         // center: new naver.maps.LatLng(latitude, longitude),
         center: centerPosition,
-        zoom: 16,
+        zoom: 13,
         zoomControl: true,
         zoomControlOptions: {
           style: naver.maps.ZoomControlStyle.LARGE,
