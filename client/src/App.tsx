@@ -1,7 +1,7 @@
 import "./App.css";
 import HouseMap from "./map/Map";
 import { useState } from "react";
-import houseData from "./data/houseData.json";
+import houseData from "./data/houseInfoxlsx.json";
 import houseData2 from "./data/houseData2.json";
 
 function App() {
